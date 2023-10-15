@@ -1,4 +1,4 @@
-# Turborepo starter
+# NEXT JS Monorepo starter
 
 This is an official starter Turborepo.
 
